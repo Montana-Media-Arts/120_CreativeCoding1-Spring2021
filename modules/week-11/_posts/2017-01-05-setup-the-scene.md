@@ -1,0 +1,109 @@
+---
+title: Setup the Scene
+module: 11
+jotted: false
+---
+
+# Setup the Scene
+
+<div class="tab">
+    <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
+    <button class="tablinks" onclick="openTab(event, 'Setup')">Setup</button>
+    <button class="tablinks" onclick="openTab(event, 'Movement')">Movement</button>
+    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
+
+</div>
+<!-- Tab content -->
+<div id="Overview" class="tabcontent" style="display:block">
+
+<div class="tabhtml" markdown="1">
+
+I find in programming that often is it is useful to have some context indicating why I am creating something.  That is why  I had you create a self-portrait. Now, we are going to create some interactive art using events.
+</div>
+</div>
+
+<div id="Setup" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+First, let's set up our scene.
+
+```js
+    var x = 50;
+    var y = 50;
+    var diameter = 25;
+    function setup()
+    {
+        createCanvas(800,600);
+    }
+    function draw()
+    {
+        background(0);
+        fill(24,200,29);
+        circle(x,y,diameter);
+    }
+```
+
+Here we just created a simple black background and added a greenish circle to it.
+</div>
+</div>
+
+<div id="Movement" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+We know how to make it move.
+
+```js
+    var x = 50;
+    var y = 50;
+    var diameter = 25;
+    function setup()
+    {
+        createCanvas(800,600);
+    }
+    function draw()
+    {
+        background(0);
+        fill(24,200,29);
+        circle(x,y,diameter);
+        x+=10;
+    }
+```
+
+That moves our circle to the right because we are adding to x.  Remember that x,y, and diameter are variables.  We are just changing (or can change) the values stored in those variables, which makes them useful.  Yes?  Good!
+
+Hopefully, you also found out that if you change x and y and diameter at the same time, some exciting things happen.  The concepts we learned last week will be the starting point for this week.
+
+```js
+    var x = 50;
+    var y = 50;
+    var diameter = 25;
+    function setup()
+    {
+        createCanvas(800,600);
+    }
+    function draw()
+    {
+        background(0);
+        fill(24,200,29);
+        circle(x,y,diameter);
+        x+=10;
+        y+=3;
+        diameter+=8;
+    }
+```
+
+Fun! Where do we go from here? Let's talk about the conditions.  What are those? If, if/else, and if/else if statements.  We have seen the first two, but maybe not the third one. We will look at those.
+
+</div>
+</div>
+
+<div id="ToDo" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+Experiment from the previous tabs.
+
+<iframe src="https://editor.p5js.org/" width="100%" height="800px"></iframe>
+</div>
+</div>
