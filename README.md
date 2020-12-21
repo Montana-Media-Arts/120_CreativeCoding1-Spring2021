@@ -19,4 +19,4 @@ Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](h
 
 ### Updated
 
-This course was last updated: 2019-5-28
+This course was last updated: 2021-1-1
