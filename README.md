@@ -6,7 +6,7 @@ This course is designed to teach code so that it can become a tool for art and c
 
 Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](https://p5js.org), this course teaches concepts from computer science and programming and allows us to apply it to our artistic expressions.
 
-- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/creative-coding-1-Fall2019/)
+- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/120_CreativeCoding1-Spring2021/)
 
 
 ### Updated by
@@ -15,7 +15,7 @@ Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](h
 - E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
 - Office: McGill Hall, 230.
 - Phone: (415) 787-0577
-
+- Calendar Meeting: [Meeting Link](https://calendly.com/michael-cassens/120-meeting)
 
 ### Updated
 
