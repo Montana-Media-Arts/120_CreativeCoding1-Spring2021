@@ -59,21 +59,21 @@ There also will many code examples. Also, there will always be download buttons 
     </li>
     </ul>
 </li>
-<li>Post to the [course issues forum](https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2020-Samples/issues).
+<li>Post to the <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2021-Samples/issues" target="_new">course issues forum</a>.
     <ul>
     <li>In a couple of pages, you will follow along with a short tutorial that will help you signup for GitHub, then star, and follow the "course repository." Part of this repository is an "issues forum" where you can post questions and problems you are having. Once subscribed, you receive emails of the "issues." You can then respond to them.</li>
     <li>The advantage of the GitHub issues forum is its advanced system for including formatted code. Formatted code helps with problem-solving.</li>
     </ul>
 </li>
-<li>Go to the 127 Media Arts Lab -- I will update you on this one. I am not entirely sure about this.</li>
+<li>Go to the 127 Media Arts Lab -- I will update you on this one. I am not entirely sure about this. (Spring 2021 -- the lab will not be open)</li>
 <li>Contact the <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2020/instructors/#TA">Teaching Assistant</a>.
     Feel free to contact the TA with questions (if we have one, I will post it here)
 </li>
-<li>Get help from <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2020/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
+<li>Get help from <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Spring2021/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
     <ul>
     <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Skype, TeamViewer, and Zoom.  Let me know!
     </li>
-    <li>One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2020/instructors/#office-hours">office hours section</a>. Office hours are another way via email, text, Zoom, or calls.
+    <li>One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Spring2021/instructors/#office-hours">office hours section</a>. Office hours are another way via email, text, Zoom, or calls.
     </li>
     <li>If you are a distance student or cannot make one of those times, please email, text or call. (I check my email multiple times a day -- well actually it just alerts me, so I should get it unless I am out of commission or in a meeting -- sometimes they feel the same to me.)
     </li>
