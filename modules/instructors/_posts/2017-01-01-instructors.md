@@ -21,7 +21,10 @@ Michael Cassens maintains this course. Please contact Michael for problems that 
 
 #### Office Hours
 
-For those in Missoula, you are welcome to come by for help during my office hours. Zoom is another way of getting in touch with me and getting my support.
+<!--For those in Missoula, you are welcome to come by for help during my office hours. -->
 
-- Mondays/Wednesday: 11:00 am - 12:00 pm
+Zoom is the primary way of getting in touch with me this semester.
+
+<!--- Mondays/Wednesday: 11:00 am - 12:00 pm
 - Tuesdays/Thursday: 10:00 am - 11:00 am
+-->
