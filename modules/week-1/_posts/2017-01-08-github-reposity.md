@@ -71,6 +71,12 @@ module: 1
 <li>Create an account by clicking Sign up for GitHub.</li>
 <li>View your repositories.</li>
 </ol>
+
+<p>This might take a few seconds to load:</p>
+
+<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="748" height="665" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 </div>
 
 <div id="GitHub" class="tabcontent">
@@ -87,4 +93,6 @@ module: 1
 <li>Create a clone on your computer.</li>
 <li>Remember to pull first <b>always</b> and then push.</li>
 </ol>
+
+
 </div>
