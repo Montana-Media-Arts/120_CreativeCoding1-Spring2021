@@ -83,7 +83,7 @@ module: 1
 
 <p>For those of you who are unfamiliar with using the terminal in Unix operating systems, you should work through the following book.</p>
 
-<p><a href="http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf" target="_new">Unix for the Beginning Mage</a></p>
+<p><a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_new">Unix for the Beginning Mage</a></p>
 
 <p>This resource walks you through the basics of using terminal via a 'cutesy' story. (Sorry if this is not your thing. Unfortunately, it is an excellent resource.)</p>
 
