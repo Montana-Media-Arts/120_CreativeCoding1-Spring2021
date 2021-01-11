@@ -117,7 +117,7 @@ module: 1
 
 <p><img src="../imgs/Screen2.png" alt="Git Bash" /></p>
 
-<p>After installing either "Windows Subsystem for Linux" or "Git Bash", you should work through the <a href="http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf" target="_new">Unix for the Beginning Mage</a> book.</p>
+<p>After installing either "Windows Subsystem for Linux" or "Git Bash", you should work through the <a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_new">Unix for the Beginning Mage</a> book.</p>
 
 </div>
 
