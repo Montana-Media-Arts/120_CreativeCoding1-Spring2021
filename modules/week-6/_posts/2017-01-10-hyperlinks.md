@@ -71,4 +71,4 @@ jotted: true
 
 <p></p>
 
-<a href='http://www.silverleaf-consulting.com/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
+<a href='https://umontanamediaarts.com/MART120/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>

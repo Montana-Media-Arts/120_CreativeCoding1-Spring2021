@@ -53,4 +53,4 @@ What other tags do we need to make stuff show up?
 
 If you want to try out the code above, click on the link below. It will open an online code editor so you can see what your HTML will look like in a browser.
 
-<a href='http://www.silverleaf-consulting.com/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
+<a href='https://umontanamediaarts.com/MART120/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>

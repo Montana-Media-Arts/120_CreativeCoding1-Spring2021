@@ -86,6 +86,6 @@ These allow us to restrict what the user can choose and helps us make sure we ge
 Feel free to experiment with these.
 
 
-<a href='http://www.silverleaf-consulting.com/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
+<a href='https://umontanamediaarts.com/MART120/CodeEditor/' target="_new">Click here for an Interactive HTML editor</a>
 
 Next, let's incorporate some of these items into our homework.
