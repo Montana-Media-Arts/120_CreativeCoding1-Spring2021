@@ -164,7 +164,7 @@ Let's make sure if we if add a third item, it still works.
     function setup()
     {
         createCanvas(800,600);
-        createCanvas(800,600);
+        
         myXs[0] = 50;
         myYs[0] = 50;
         myDiameters[0] = 25;
