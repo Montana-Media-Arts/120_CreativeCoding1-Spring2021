@@ -6,44 +6,58 @@ jotted: false
 
 # Class Constructor Methods
 
-For every class definition written, there needs to be at least one specific method; that is the `constructor` method. Furthermore, this should be the first method defined.
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks" onclick="openTab(event, 'Example')">Example</button>
+  
+</div>
 
-The constructor method **is always** called by JavaScript when creating a new object from a class. Therefore you **must** have a constructor method. You can think about it as; "JavaScript must 'construct' or build a new object. The _constructor_ method is how a new object gets built."
+<div id="Overview" class="tabcontent" style="display:block"  >
+<div class="tabhtml" markdown="1">
 
-## The Purpose of the Constructor Method
+In p5.js classes there is a `constructor` function. This should be the first function defined in the class.
 
-JavaScript uses the _constructor method_ to build new objects of a class type. Although you have not seen how to instantiate a new object from a class yet, you need to accept, that the _constructor method_ is called by JavaScript.
+The constructor function **is always** called when creating a new object from a class. Therefore you **must** have a constructor function. You can think about it as 'constructing' or building a new object. The _constructor_ function is how a new object gets built."
 
-#### So what goes in a _constructor method_?
+</div>
+</div>
 
-The constructor method should be used to setup or _initialize_ an object's _properties_.
+<div id="Example" class="tabcontent">
+<div class="tabhtml" markdown="1">
 
-As an example, if we were creating a digital car, we may want to specify properties such as;
-
-- `color`
-- `make`
-- `model`
-- `year`
-
-You will learn more specifically how to do this on the next page.
-
-## Pseudo Code
-
-As mentioned, the _constructor method_ should be the first method in a _class definition_.
-
-Furthermore, if there is data that needs to be shared with the newly created object, this should be represented as _input parameters_ to this function.
-
-Roughly, this may look like;
+In the previous section, the class looked like this.
 
 ```js
-// a class definition
-class ClassName {
+class Dog {
+  constructor(name, breed, weight, eyeColor, hairColor ) {
+    this.name = name;
+    this.breed = breed;
+    this.weight = weight;
+    this.eyeColor = eyeColor;
+    this.hairColor = hairColor;
+  }
 
-    // constructor method
-    constructor( inputParameter1, inputParameter2 ) {
-        // method function block
-        // Do stuff here to create an object
-        console.log(inputParemeter1);
-    }
+  eat()
+  {
+    text(this.name + "is eating...", 100, 100);
+  }
+
+  sleep()
+  {
+    text(this.name + " is sleeping...", 200, 200);
+  }
 }
 ```
+
+The constructor is defined at the top like this.
+
+```js
+constructor(name, breed, weight, eyeColor, hairColor ) {
+```
+
+In this case, the constructor takes in five different arguments (name, breed, weight, eyeColor and hairColor).
+
+So, when an object is created, it has those specific attributes or qualities.
+
+</div>
+</div>
